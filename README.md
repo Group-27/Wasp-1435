@@ -1,4 +1,4 @@
-## Wasp 1435
+# Wasp 1435
 
 ### App Description
 
@@ -15,9 +15,70 @@ To solve these puzzle, users will require to know some amount of encryption/decr
 
 ---
 
-### User Stories
-// TODO: Enumerate User Stories
-1. User can...
+
+## WASP 1435 Product Spec
+
+### 1. User Stories (Required and Optional)
+
+**Required Must-have Stories**
+
+ * Create user account
+ * Login for users
+ * puzzles/ challenges 
+ * reward/ points system
+ * chat/ meetup
+
+**Optional Nice-to-have Stories**
+
+ * Monetary rewards for harder puzzles
+ * Users could puzzle suggestions
+
+### 2. Screen Archetypes
+
+ * Login/Welcome (user stats/profile)
+    * Create user account
+    * Login for users
+     
+ * Puzzle selection list (scrolldown)
+    * daily login rewards
+    * puzzles/ challenges 
+   
+ * Solved puzzle rewards 
+    * reward/ points system
+ 
+ * User forums
+     * chat/ meetup
+
+### 3. Navigation
+
+**Tab Navigation** (Tab to Screen)
+
+ * Home
+ * Puzzle Selection
+ * User Profile
+ * Rewards
+
+**Flow Navigation** (Screen to Screen)
+
+ * Login
+   * Enter user credentials 
+   * Create new user account
+     * Profile setup
+
+ * Puzzle selection
+     * Details on problem
+         * Solved puzzle rewards
+             * User selects a reward from three options
+     * Hints
+         * User loses points from using hints
+         
+ * User profile
+     * To view user statistics and details
+
+ * Rewards 
+     * list of rewards collected and list of rewards to collected
+
+ 
 
 ---
 
