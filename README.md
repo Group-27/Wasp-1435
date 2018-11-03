@@ -83,7 +83,8 @@ To solve these puzzle, users will require to know some amount of encryption/decr
 ---
 
 ### Wireframes
-// TODO: Add Wireframe Images
+
+[View the Wasp 1435 wireframe](https://www.figma.com/file/UWs4KAQvY8XT1IWMeJsZccc1/Wasp-1435-Wireframe?node-id=0%3A1) 📱
 
 ---
 
