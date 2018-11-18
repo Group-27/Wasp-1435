@@ -84,10 +84,11 @@ To solve these puzzle, users will require to know some amount of encryption/decr
 
 ### Wireframes
 
-[View the Wasp 1435 wireframe](https://www.figma.com/file/UWs4KAQvY8XT1IWMeJsZccc1/Wasp-1435-Wireframe?node-id=0%3A1) 📱
+<img src="https://i.imgur.com/gywaKMm.gif" width=350><br> 
 
-<img src="https://i.imgur.com/gywaKMm.gif" width=200><br> 
-<img src="https://i.imgur.com/ddw0s5h.png" width=200><br> 
+[View the Wasp 1435 wireframe on Figma](https://www.figma.com/file/UWs4KAQvY8XT1IWMeJsZccc1/Wasp-1435-Wireframe?node-id=0%3A1) 📱
+
+<img src="https://i.imgur.com/ddw0s5h.png"><br> 
 ---
 
 ### App Pitch Presentation
