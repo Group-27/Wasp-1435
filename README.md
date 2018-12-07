@@ -92,4 +92,5 @@ To solve these puzzle, users will require to know some amount of encryption/decr
 ---
 
 ### App Pitch Presentation
-// TODO: Add link to Pitch Presentation Deck
+
+📺 [Google Slides](https://docs.google.com/presentation/d/1bm6nu_xd5UTX4aBJwjItyu_cjxzdkC4M-uq7aS2iQr8/edit?usp=sharing)
