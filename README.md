@@ -13,9 +13,6 @@ To solve these puzzle, users will require to know some amount of encryption/decr
 - Habit: Puzzles can span a week or a month depending on difficulty and the number of stages to pass. Roughly about weekly usage. Users will be able to participate in the puzzles itself, and may be able contribute in giving puzzle suggestions.
 - Scope: puzzle creation would take a good amount of time. Will require ads or sponsorship as a source of revenue and to curate puzzles. A way to manage or deploy weekly and monthly puzzle, will need to be considered. A stripped-down version of this app is still interesting to build. 
 
----
-
-
 ## WASP 1435 Product Spec
 
 ### 1. User Stories (Required and Optional)
@@ -78,19 +75,25 @@ To solve these puzzle, users will require to know some amount of encryption/decr
  * Rewards 
      * list of rewards collected and list of rewards to collected
 
- 
 
----
+### 📱 Wireframe
 
-### Wireframes
+![Picture of Current Wireframe](week10_updated-demo.gif)
 
-<img src="https://i.imgur.com/gywaKMm.gif" width=350><br> 
+![Picture of Current Wireframe](week10_updated-wireframe.png)
 
-[View the Wasp 1435 wireframe on Figma](https://www.figma.com/file/UWs4KAQvY8XT1IWMeJsZccc1/Wasp-1435-Wireframe?node-id=0%3A1) 📱
+[View the Current Wasp 1435 Wireframe on Figma](https://www.figma.com/file/UWs4KAQvY8XT1IWMeJsZccc1/Wasp-1435-Wireframe?node-id=0%3A1) 
 
-<img src="https://i.imgur.com/ddw0s5h.png"><br> 
----
+Others:
 
-### App Pitch Presentation
+- [Link to Wireframe Version 1](https://i.imgur.com/ddw0s5h.png)
+- [Link to gif Demo Version 1](https://i.imgur.com/gywaKMm.gif)
 
-📺 [Google Slides](https://docs.google.com/presentation/d/1bm6nu_xd5UTX4aBJwjItyu_cjxzdkC4M-uq7aS2iQr8/edit?usp=sharing)
+### 📺 App Pitch Presentation
+
+Google Slide links:
+
+- [Slide Deck Latest 🆕 Version](https://docs.google.com/presentation/d/1bm6nu_xd5UTX4aBJwjItyu_cjxzdkC4M-uq7aS2iQr8/edit?usp=sharing)
+
+- [Slide Deck Version 1️⃣](https://docs.google.com/presentation/d/1bm6nu_xd5UTX4aBJwjItyu_cjxzdkC4M-uq7aS2iQr8/edit?usp=sharing)
+
