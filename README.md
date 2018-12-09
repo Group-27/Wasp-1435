@@ -2,16 +2,29 @@
 
 ### App Description
 
-Allows users to participate in weekly or monthly curated security puzzles. Puzzle solvers will get to meet other users at the end of the puzzle. Puzzle winners will receive virtual rewards or a tangible reward depending on the difficulty. To receive a tangible reward, puzzle solvers are encouraged to meet in the real world. Puzzles are timed, and each stage may have a price to encourage further progress.
-To solve these puzzle, users will require to know some amount of encryption/decryption, security vulnerabilities and best practices. Overall, this app is similar to a security themed CTF (capture the flag).
+Allows users to participate in periodical releases of puzzles. Solving an entire puzzles offers the player virtual in-game rewards, as well as real-life prizes depending on the difficulty. Also offers a forum, to create a sense of community. 
+
+Future plans include: 
+
+1. Solving puzzles to to reveal meetup locations to connect with other users 
+2. Sponsorship from companies
+3. Opensourcing puzzle creation
+
+To solve these puzzle, users will require to know some amount of encryption/decryption, security vulnerabilities and best practices. Overall, this app is similar to a security themed CTF (capture the flag) and printed or electronic badge puzzle solving at hacking/security conferences. 
 
 ### General App Attributes
 
-- Mobile: Once you start the game, it asks you, if it can access your location. So, if you are stuck on a puzzle you can see the level on which people are. These people need to be within 15 miles radius. You can then ask them for help. So, bascially, you can just play the game alone or with other people.
-- Story: Inspired by Cicada 3301. Cicada was  an internet puzzle that was first started on January 4th and ran for three years to collect very intelligent individuals. So this app is to unite or get intelligent puzzle breakers together.
-- Market: Under 18 get a virtual gift. Over 18, you have the option of coosing between a virtual gift or tangible gift. Over 18, after two virtual gifts, you have to choose a tangible gift. We will have several meetups, you can go there or get a monetary reward (gift cards).
-- Habit: Puzzles can span a week or a month depending on difficulty and the number of stages to pass. Roughly about weekly usage. Users will be able to participate in the puzzles itself, and may be able contribute in giving puzzle suggestions.
-- Scope: puzzle creation would take a good amount of time. Will require ads or sponsorship as a source of revenue and to curate puzzles. A way to manage or deploy weekly and monthly puzzle, will need to be considered. A stripped-down version of this app is still interesting to build. 
+- Mobile: Offers a text based forum, to allow users to ask for advice on particular puzzle problem. 
+
+- Story: The App name is inspired by `Cicada 3301`. Cicada was an internet puzzle that was first started on January 4th and ran for three years to collect very intelligent individuals. `Wasp 1435` aims to brings smart and creative people together with puzzle solving and encourage others to participate, by simulating problem-solving activities found at security/hacking conferences. 
+
+- Market: People who like sudoku/chess, like to be challenged, tired of candy crush, and wants a brain teaser. Considering that there will be a future option to meet other users of the app, users must be 18 and above in order to activate this functionality. 
+
+- Habit: Solving a puzzle can span a week or a month depending on difficulty and the number of stages to pass. Roughly about weekly usage. Future option would be to have users provide ideas/suggestions and/or allow users create their entire puzzle (similar to a quest) for other users solve by submitting a proposal to the app.
+
+- Scope: puzzle creation would take a good amount of time. Will require ads for source of income to continuously curate and develop puzzles and/or sponsorships as a source of events. A way to manage or deploy weekly and monthly puzzles, will need to be considered. A stripped-down version of this app is still interesting to build. 
+
+NOTE: the word `puzzle(s)` can be interchangeably used with the word `quest`. 
 
 ## WASP 1435 Product Spec
 
