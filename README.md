@@ -93,7 +93,7 @@ Others:
 
 Google Slide links:
 
-- [Slide Deck Latest 💯 Version](https://docs.google.com/presentation/d/1bm6nu_xd5UTX4aBJwjItyu_cjxzdkC4M-uq7aS2iQr8/edit?usp=sharing)
+- [Slide Deck Latest 💯 Version](https://docs.google.com/presentation/d/1RtOc8Mq8tp9WwGpUfHEdMaC6Zo0Czh5O-TCvdW6ZRZ4/edit?usp=sharing)
 
 - [Slide Deck Version 1️⃣](https://docs.google.com/presentation/d/1bm6nu_xd5UTX4aBJwjItyu_cjxzdkC4M-uq7aS2iQr8/edit?usp=sharing)
 
