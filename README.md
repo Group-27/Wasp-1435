@@ -12,6 +12,8 @@ Future plans include:
 
 To solve these puzzle, users will require to know some amount of encryption/decryption, security vulnerabilities and best practices. Overall, this app is similar to a security themed CTF (capture the flag) and printed or electronic badge puzzle solving at hacking/security conferences. 
 
+[![WASP 1435 Presentation](WASP1435-YouTube.PNG)](https://www.youtube.com/watch?v=U-xl711OczA)
+
 ### General App Attributes
 
 - Mobile: Offers a text based forum, to allow users to ask for advice on particular puzzle problem. 
